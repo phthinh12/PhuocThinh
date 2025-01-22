@@ -1,6 +1,0 @@
-Config = {
-    namescript = "PhThinhHub",--Tên Script
-    logoscript = "117390141608083",--ID Logo Script
-    tacgia = "PhuocThinh"-- Tên Tác Giả
-}
-loadstring(game:HttpGet("https://raw.githubusercontent.com/wpisstestfprg/Volcano/refs/heads/main/VolcanoLocal.lua", true))()
